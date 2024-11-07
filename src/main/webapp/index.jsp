@@ -8,6 +8,15 @@
     </head>
     <body>
         
+        
+        
+        
+        <!-- prueba -->
+        
+        
+        
+        
+        
         <%
         response.sendRedirect("factura?accion=registro");
         %>
